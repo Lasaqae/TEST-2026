@@ -1,0 +1,23 @@
+var json_MSelenCentralSmallNgellasmall_ngella_3 = {
+"type": "FeatureCollection",
+"name": "MSelenCentralSmallNgellasmall_ngella_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": "1", "Name": "Taburu Canteen", "Type": "M-Selen Agent", "Location": "Siara", "Province": "Central", "Latitude": -9.17886, "Longitude": 160.22242 }, "geometry": { "type": "Point", "coordinates": [ 160.222421, -9.178857 ] } },
+{ "type": "Feature", "properties": { "fid": "2", "Name": "J.B Canteen", "Type": "M-Selen Agent", "Location": "Kilovala", "Province": "Central", "Latitude": -9.19117, "Longitude": 160.24326 }, "geometry": { "type": "Point", "coordinates": [ 160.243261, -9.191174 ] } },
+{ "type": "Feature", "properties": { "fid": "3", "Name": "L.S Canteen", "Type": "M-Selen Agent", "Location": "Combe", "Province": "Central", "Latitude": null, "Longitude": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": "4", "Name": "Sogolonga Bottleshop", "Type": "M-Selen Agent", "Location": "Koilovala", "Province": "Central", "Latitude": -9.19093, "Longitude": 160.24543 }, "geometry": { "type": "Point", "coordinates": [ 160.245434, -9.190925 ] } },
+{ "type": "Feature", "properties": { "fid": "5", "Name": "Pelton George Kaku", "Type": "M-Selen Agent", "Location": "Salisapa", "Province": "Central", "Latitude": -9.10551, "Longitude": 160.34719 }, "geometry": { "type": "Point", "coordinates": [ 160.347186, -9.105508 ] } },
+{ "type": "Feature", "properties": { "fid": "6", "Name": "Monica Dae", "Type": "M-Selen Agent", "Location": "Toa", "Province": "Central", "Latitude": null, "Longitude": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": "7", "Name": "Jove Canteen", "Type": "M-Selen Agent", "Location": "Burungia Village, Small Ngella, Central Province", "Province": "Central", "Latitude": -9.18608, "Longitude": 160.27379 }, "geometry": { "type": "Point", "coordinates": [ 160.27379, -9.186077 ] } },
+{ "type": "Feature", "properties": { "fid": "8", "Name": "JM Canteen", "Type": "M-Selen Agent", "Location": "Vuturua Village, Small Ngella,Central Province", "Province": "Central", "Latitude": -9.16532, "Longitude": 160.38449 }, "geometry": { "type": "Point", "coordinates": [ 160.384493, -9.16532 ] } },
+{ "type": "Feature", "properties": { "fid": "9", "Name": "Mareta Canteen", "Type": "M-Selen Agent", "Location": "Longapolo Village", "Province": "Central", "Latitude": -9.18018, "Longitude": 160.34598 }, "geometry": { "type": "Point", "coordinates": [ 160.345984, -9.180176 ] } },
+{ "type": "Feature", "properties": { "fid": "10", "Name": "Pogoro", "Type": "M-Selen Agent", "Location": "Bokolonga Village", "Province": "Central", "Latitude": -9.15533, "Longitude": 160.2238 }, "geometry": { "type": "Point", "coordinates": [ 160.223799, -9.155329 ] } },
+{ "type": "Feature", "properties": { "fid": "11", "Name": "Harbour Canteen", "Type": "M-Selen Agent", "Location": "Bokolonga Village, Ngella, Central Province", "Province": "Central", "Latitude": -9.16104, "Longitude": 160.22212 }, "geometry": { "type": "Point", "coordinates": [ 160.222124, -9.161037 ] } },
+{ "type": "Feature", "properties": { "fid": "12", "Name": "Jair Canteen", "Type": "M-Selen Agent", "Location": "Dende Village", "Province": "Central", "Latitude": -9.16069, "Longitude": 160.30036 }, "geometry": { "type": "Point", "coordinates": [ 160.300363, -9.160693 ] } },
+{ "type": "Feature", "properties": { "fid": "13", "Name": "LPT Canteen", "Type": "M-Selen Agent", "Location": "Vuranimala Village", "Province": "Central Province", "Latitude": -9.17384, "Longitude": 160.32104 }, "geometry": { "type": "Point", "coordinates": [ 160.321039, -9.173844 ] } },
+{ "type": "Feature", "properties": { "fid": "14", "Name": " Stop 'n' Shop", "Type": "M-Selen Agent", "Location": "Bungana Islands", "Province": "Central Province", "Latitude": -9.1746, "Longitude": 160.20835 }, "geometry": { "type": "Point", "coordinates": [ 160.208349, -9.174597 ] } },
+{ "type": "Feature", "properties": { "fid": "15", "Name": "EWV.com", "Type": "M-Selen Agent", "Location": "Belaga", "Province": "Central Province", "Latitude": -9.07353, "Longitude": 160.32981 }, "geometry": { "type": "Point", "coordinates": [ 160.329807, -9.073528 ] } },
+{ "type": "Feature", "properties": { "fid": "16", "Name": "MT Canteen - Kolosuba", "Type": "M-Selen Agent", "Location": "Kolosuba Village, Kolosuba District", "Province": "Central", "Latitude": -9.15049, "Longitude": 160.22637 }, "geometry": { "type": "Point", "coordinates": [ 160.226368, -9.150494 ] } }
+]
+}
